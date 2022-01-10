@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "\\pe-de-burro\\src",
+    "\\pe-de-burro\\src\\app",
+    "\\pe-de-burro\\src\\app\\produtos",
+    "\\pe-de-burro\\src\\app\\produtos\\models",
+    "\\pe-de-burro\\src\\app\\produtos\\produtos",
+    "\\pe-de-burro\\src\\app\\shared",
+    "\\pe-de-burro\\src\\app\\shared\\app-material",
+    "\\pe-de-burro\\src\\app\\shared\\pipes",
+    "\\pe-de-burro\\src\\assets",
+    "\\pe-de-burro\\src\\environments"
+  ],
+  "PreviewInSolutionExplorer": false
+}

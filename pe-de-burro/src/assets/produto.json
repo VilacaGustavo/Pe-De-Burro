@@ -1,0 +1,14 @@
+[
+  {
+    "_id": "1",
+    "nome_produto": "Made In Mato",
+    "categoria": "bone",
+    "valor": "50"
+  },
+  {
+    "_id": "2",
+    "nome_produto": "Made In Mato",
+    "categoria": "chapeu",
+    "valor": "50"
+  }
+]
