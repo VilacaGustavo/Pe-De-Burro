@@ -1,9 +1,9 @@
 export interface Produto {
 
-  _id: string;
+  _id: number;
   nome_produto: string;
   categoria: string;
-  valor: string;
+  preco: number;
 
 
 }

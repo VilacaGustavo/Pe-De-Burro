@@ -8,7 +8,7 @@ import { Produto } from '../models/produto';
 })
 export class ProdutosService {
 
-  private readonly API = '/assets/produto.json';
+  private readonly API = 'api/product';
 
   constructor(private httpClient: HttpClient) { }
 
